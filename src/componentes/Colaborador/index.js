@@ -1,5 +1,5 @@
 import { AiFillCloseSquare } from "react-icons/ai";
-import './colaborador.css'
+import './Colaborador.css'
 
 const Colaborador = ({ colaborador, corDeFundo, aoDeletar }) => {
     return (<div className="colaborador">
